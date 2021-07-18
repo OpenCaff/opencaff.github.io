@@ -1,8 +1,10 @@
 ---
 redirect_from: "/"
 ---
-
-This is a sample of main page. You can edit it to start your wiki.
-
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+# welcome everyone to the OpenCaff wiki
+## The purpose
+OpenCaff was started so we have open standards for coffee, tea, and other caffeinated beverages.
+## the reason
+### We want better standards for coffee, tea, and other caffeinated beverages than what the ISO gave us.
+WWer want to enhance coffee by establishing basic standards.
 
